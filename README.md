@@ -1,5 +1,5 @@
 ## Introduction
-This is a python script that reads Mr Nicolas's file and extract `K_L0` info.
+This is a python script that reads Mr Nicolas's file and extracts `K_L0` data.
 
 ## How to run
 Please first install Python3. 

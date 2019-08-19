@@ -56,7 +56,7 @@ def main():
     args = parser.parse_args()
     filename_source = args.fn_source
     filename_target = args.fn_target
-    
+
     f_source = open(filename_source, 'r')
     line = f_source.readline()
 
